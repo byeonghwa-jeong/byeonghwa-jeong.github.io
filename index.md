@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Post-Doctoral Research Fellow
-subtitle: School of Cities, Univerisity of Toronto
+title: Byeonghwa's personal page
+subtitle: Postdoctoral Fellow, School of Cities, Univerisity of Toronto
 cover-img: /assets/img/IMG_3214.png
 ---
 
