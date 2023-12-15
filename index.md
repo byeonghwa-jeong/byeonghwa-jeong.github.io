@@ -2,7 +2,7 @@
 layout: page
 title: Post-Doctoral Research Fellow
 subtitle: School of Cities, Univerisity of Toronto
-cover-img: /assets/img/itu-seokho-m4.jpg
+cover-img: /assets/img/IMG_3214.png
 ---
 
 <br/>
