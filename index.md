@@ -8,22 +8,18 @@ cover-img: /assets/img/IMG_3214.png
 <br/>
 
 ## About me
+**Byeonghwa Jeong** is a **Post Doctoral Research Fellow** in the [School of Cities](https://schoolofcities.utoronto.ca) at the University of Toronto. He was awarded a Ph.D. from the University College London under the supervision of Prof Paul Longley and James Cheshire. 
 
-**Seokho Son** is a **_senior researcher_** and **_open source special fellow_** of [ETRI](https://www.etri.re.kr/kor/main/main.etri) (Korean government-funded national research institute). He designs system architectures and devises sophisticated algorithms to accomplish national R&D projects in cloud computing domain.
+his research interest is to analyse and predict social phenomena using diverse spatiotemporal big data and cutting-edge methodologies. Indeed, his Ph.D. thesis is to predict gentrified high streets in England, employing bespoke Bayesian Neural Network models. Currently, at the School of Cities, his active involvement in the downtown recovery project involves addressing data uncertainty, imputing the missing data through deep learning, and identifying commercial boundaries using computer vision techniques and spatial data. 
 
-He has a broad technical background in cloud computing, multi-agent systems, resource management, and decision-making algorithms. He has published more than 20 international [research papers](https://scholar.google.com/citations?user=seokhoson) including highly cited top journals. His research has been presented in several conferences and organizations.
+In addition, Natural Language Processing (NLP) and text mining are other research interests. Using diverse text data and methods, he studied the longitudinal changes in the sense of place of a market in which the urban regeneration project was introduced, and He is participating in projects that investigate the local content. 
 
-He is carrying out various activities including international standardizations ([ITU-T](https://www.itu.int/en/ITU-T/about/Pages/default.aspx) standards), paper reviews for research journals, and contributions to open source projects.
+Remote sensing is also one of his research areas. In particular, He developed a spatial interpolation model based on deep learning to more accurately predict unobserved areas by Orbiting Carbon Observatory-2 (OCO-2) satellite. As such, his main research interests are deeply associated with understanding our society based on data science approaches as well as offering valuable insights.
 
-He is a founding member of the open souce project [Cloud-Barista](https://github.com/cloud-barista) and the leader and maintainer of [CB-Tumblebug](https://github.com/cloud-barista/cb-tumblebug) project.
-Also, he is a member of [Kubernetes](https://kubernetes.io/) and approver/reviewer of localization contents in Kubernetes [Dashboard](https://github.com/kubernetes/dashboard) and [Website](https://github.com/kubernetes/website).
-
-He loves to bring new ideas and share it with collaborators. Hello world! &#128525;
 
 ## Contact
-
 ```
-Affiliation: Cloud Computing SW Research Section, Future Computing Research Division, Artificial Intelligence Research Laboratory, Electronics and Telecommunications Research Institute (ETRI)
-Office: ETRI 7-563, 218, Gajeong-ro, Yuseong-gu, Daejeon, Republic of Korea
-Email: shsonkorea[at]etri.re.kr or shsongist[at]gmail.com
+Affiliation: School of Cities, University of Toronto
+Office: 55 St George St, Toronto, ON M5S 0C9, Canada
+Email: byeonghwa.jeong[at]utoronto.ca or byung.gee[at]gmail.com
 ```
