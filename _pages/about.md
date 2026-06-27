@@ -26,7 +26,8 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-I am an R&D Associate at [Oak Ridge National Laboratory] (https://www.ornl.gov/), working at the intersection of geographic information science, spatial data science, GeoAI, machine learning, remote sensing, and urban analytics. My research focuses on analysing and predicting geographical and social phenomena using large-scale spatiotemporal data, with the broader goal of supporting data-driven, human-centered decision-making for planning, infrastructure, humanitarian response, and sustainable development.
+
+I am an R&D Associate at [Oak Ridge National Laboratory](https://www.ornl.gov/), working at the intersection of geographic information science, spatial data science, GeoAI, machine learning, remote sensing, and urban analytics. My research focuses on analysing and predicting geographical and social phenomena using large-scale spatiotemporal data, with the broader goal of supporting data-driven, human-centered decision-making for planning, infrastructure, humanitarian response, and sustainable development.
 
 I received my Ph.D. from University College London under the supervision of Professor Paul Longley and Professor James Cheshire. My doctoral research examined retail gentrification and high street change in England, developing spatial and machine learning approaches to identify areas at risk of gentrification. This work reflected a broader interest in using spatial context and computational methods to produce more actionable evidence for urban policy.
 
