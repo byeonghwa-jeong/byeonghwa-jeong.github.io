@@ -1,189 +1,674 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
-  image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+name: Byeonghwa Jeong
+label: R&D Associate
+email: [jeongb@ornl.gov](mailto:jeongb@ornl.gov)
+phone: "+1.865.440.5596"
+location: Oak Ridge, TN, USA
+image: ""
+summary: >
+R&D Associate in the Geospatial Science and Human Security Division at Oak Ridge National Laboratory.
+My research focuses on geospatial data science, GeoAI, machine learning, remote sensing, population modeling,
+socioeconomic mapping, and the analysis and prediction of social and geographical phenomena using large-scale
+spatiotemporal data.
 
-  social_networks:
-    - network: X
-      username: AlbertEinstein
-    - network: GitHub
-      username: example
-    - network: LinkedIn
-      username: example
+social_networks:
+  - network: ORCID
+    username: "0009-0009-8643-2640"
+  - network: GitHub
+    username: byeonghwa-jeong
+  - network: LinkedIn
+    username: byeonghwa-jeong-7521b5151
 
-  address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+address:
+street: 1 Bethel Valley Rd
+city: Oak Ridge
+region: Tennessee
+postalCode: "37830"
+countryCode: US
 
-  sections:
-    Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
-        studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
-        highlights:
-          - Description 1.
-          - Description 2.
+sections:
+Education:
+- institution: University College London
+location: London, UK
+area: Geography
+studyType: Ph.D.
+start_date: 2019-09
+end_date: 2023-06
+score: ""
+courses: ""
+highlights:
+- "Thesis: An Integrated Deep Learning Model using Retail, Residential and Footfall Changes data to Predict Retail Gentrification."
+- "Supervisors: Prof Paul Longley and Prof James Cheshire."
+- "Developed a bespoke AI model, Autoencoder-LSTM, to predict gentrified high streets across England by analyzing longitudinal changes in residential, retail, and footfall variables."
+- "Estimated the long-term impact of the COVID-19 pandemic on retail gentrification using Multivariate Multiple Regression and a Likelihood Ratio Test."
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
-        highlights:
-          - Description 1.
-          - Description 2.
+```
+  - institution: The University of Edinburgh
+    location: Edinburgh, UK
+    area: Geographical Information Sciences
+    studyType: Master of Science
+    start_date: 2017-09
+    end_date: 2018-08
+    score: Distinction
+    courses: ""
+    highlights:
+      - "Dissertation: Anticipation of Commercial Gentrification through Time and Space: Seoul, South Korea."
+      - "Predicted retail gentrification in Seoul using Self-Organising Maps and a Cellular Automata Markov model with land price, retailer, and socioeconomic data."
 
-    Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
-        highlights:
-          - Relativity
-          - Description 2.
+  - institution: Kyungpook National University
+    location: Daegu, South Korea
+    area: Geography
+    studyType: Bachelor of Arts
+    start_date: 2008-03
+    end_date: 2015-08
+    score: ""
+    courses: ""
+    highlights: []
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
-        highlights:
-          - Description 1.
-          - Description 2.
+Experience:
+  - company: Oak Ridge National Laboratory
+    position: R&D Associate
+    location: Knoxville, USA
+    start_date: 2025-02
+    end_date: present
+    summary: >
+      Conducts research on high-resolution population modeling, GeoAI, disaster impact assessment,
+      socioeconomic mapping, and global geospatial data products.
+    highlights:
+      - "Participating in LandScan Global and LandScan Mosaic projects that generate 1 km and 100 m global gridded population data."
+      - "Integrating satellite-based damage assessments with population models to generate near-real-time estimates of populations affected by disasters and conflicts."
+      - "Developing a global habitable probability mask using AI to improve the accuracy of gridded population data."
+      - "Building AI models to predict building-level wealth indices from multimodal data, including satellite images, building features, and building footprint data."
+      - "Applying multiple instance learning to survey-based data to produce more reliable small-area estimates of household wealth distribution."
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
+  - company: University of Toronto
+    position: Post-Doctoral Research Fellow
+    location: Toronto, Canada
+    start_date: 2023-07
+    end_date: 2025-01
+    summary: >
+      Worked on downtown recovery, footfall analytics, urban spatial data, and machine learning-based analysis
+      of post-pandemic urban change.
+    highlights:
+      - "Participated in a downtown recovery project measuring the degree of recovery of downtown areas from the COVID-19 pandemic."
+      - "Estimated uncertainty in sample footfall data."
+      - "Analyzed recovery rates of individual buildings in downtown areas and investigated relationships between building characteristics and recovery rates."
+      - "Imputed missing footfall data using deep learning-based imputation models."
+      - "Developed new downtown boundaries using unsupervised image segmentation models and open-source spatial big data."
+      - "Explored the influence of socioeconomic variables on downtown recovery rates through explainable AI."
 
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
+  - company: Daejeon Sejong Research Institute
+    position: External Collaborative Researcher
+    location: Daejeon, South Korea
+    start_date: 2024-10
+    end_date: 2024-12
+    summary: >
+      Participated in a research project on big data-driven strategies for enhancing the Science City Daejeon brand.
+    highlights:
+      - "Crawled web contents about the Korea Science Festival and Daejeon Science Festival between 2019 and 2024."
+      - "Preprocessed collected text data and performed text mining using TF-IDF, Latent Dirichlet Allocation, and network analysis."
+      - "Explored changes in public perceptions of science festivals."
 
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
+  - company: Daejeon Sejong Research Institute
+    position: External Collaborative Researcher
+    location: Daejeon, South Korea
+    start_date: 2023-08
+    end_date: 2023-10
+    summary: >
+      Participated in a research project on discovering regional assets using big data analysis and civic collaboration.
+    highlights:
+      - "Crawled text data from diverse internet sources."
+      - "Preprocessed collected text data and performed text mining using TF-IDF, Latent Dirichlet Allocation, and network analysis."
 
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
-        highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+  - company: Daejeon Sejong Research Institute
+    position: External Technical Consultant
+    location: Daejeon, South Korea
+    start_date: 2022-07
+    end_date: 2022-09
+    summary: >
+      Provided technical consulting for social media data collection and text mining.
+    highlights:
+      - "Participated in the project: An Analysis of the Concept of Hip and Hot Place in Daejeon Using Social Media Data and Text Mining."
+      - "Advised on web crawling using Python and related packages."
+      - "Consulted on preprocessing crawled text data for text mining."
+      - "Consulted on Latent Dirichlet Allocation and network analysis for text data."
 
-    Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+  - company: Korea Environment Institute
+    position: Part-time Modeler
+    location: Sejong, South Korea
+    start_date: 2021-08
+    end_date: 2021-10
+    summary: >
+      Developed a deep learning-based spatial interpolation model for satellite-based CO2 observations.
+    highlights:
+      - "Built a spatial interpolation model to predict unobserved areas by Orbiting Carbon Observatory-2 satellite."
+      - "Combined GEOS-Chem CO2 modeling outputs and OCO-2 satellite data."
+      - "Achieved superior results compared with traditional interpolation methods."
 
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+  - company: Korea Research Institute for Human Settlements
+    position: Assistant Research Fellow
+    location: Sejong, South Korea
+    start_date: 2018-09
+    end_date: 2019-09
+    summary: >
+      Conducted spatial analysis and developed indicators for national territorial monitoring.
+    highlights:
+      - "Participated in studies on the usage, analysis, and application of national territory monitoring indicators for policymakers."
+      - "Built accessibility indicators to daily infrastructure such as schools and parks using grid-based maps covering South Korea."
+      - "Created old building proportion data for grid-based maps using building trajectory data for South Korea."
 
-    Publications:
-      - title: Zur Elektrodynamik bewegter Körper
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
+  - company: Kyungpook National University
+    position: Student Research Assistant
+    location: Daegu, South Korea
+    start_date: 2015-11
+    end_date: 2016-06
+    summary: >
+      Supported research on greenhouse gas satellite data and forest carbon offset assessment.
+    highlights:
+      - "Participated in a project evaluating sensor signature changes caused by UN forestry carbon projects."
+      - "Explored urban carbon distribution in Seoul using Orbiting Carbon Observatory-2 satellite data."
+      - "Learned foundational Python techniques for satellite data preprocessing and geostatistical analysis."
 
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
+Publications:
+  - title: "Development of Grid-Based Population Projection Method: A Modified Cohort Component Approach Applied to South Korea"
+    authors:
+      - Bokyeong Lee
+      - Byeonghwa Jeong
+    publisher: Population, Space and Place
+    releaseDate: 2025
+    url: https://doi.org/10.1002/psp.70161
+    summary: "Peer-reviewed journal publication. Byeonghwa Jeong served as corresponding author."
 
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+  - title: "A Large Language Model-based Chatbot System Framework for Urban Planners"
+    authors:
+      - Xiaoxin Zhou
+      - Byeonghwa Jeong
+      - Karen Chapple
+    publisher: Expert Systems With Applications
+    releaseDate: 2025
+    url: https://doi.org/10.1016/j.eswa.2025.130307
+    summary: "Peer-reviewed journal publication. Byeonghwa Jeong served as corresponding author."
 
-    Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+  - title: "Popnet: computer vision based bespoken deep learning model for forecasting gridded population"
+    authors:
+      - Byeonghwa Jeong
+      - Bokyeong Lee
+    publisher: International Journal of Geographical Information Science
+    releaseDate: 2025
+    url: https://doi.org/10.1080/13658816.2025.2514792
+    summary: "Peer-reviewed journal publication."
 
-    Languages:
-      - name: German
-        summary: "Native speaker"
+  - title: "A first open retail boundary dataset for South Korea using open data and computer vision technique"
+    authors:
+      - Byeonghwa Jeong
+      - Juhwan Song
+      - Younghoon Kim
+    publisher: Scientific Data
+    releaseDate: 2025
+    url: https://doi.org/10.1038/s41597-025-04958-1
+    summary: "Peer-reviewed journal publication."
 
-      - name: English
-        summary: "Fluent"
+  - title: "Does Class Matter? Understanding Differential Pandemic Recovery via a Building Typology"
+    authors:
+      - Byeonghwa Jeong
+      - Karen Chapple
+    publisher: Environment and Planning B: Urban Analytics and City Science
+    releaseDate: 2025
+    url: https://doi.org/10.1177/23998083251326128
+    summary: "Peer-reviewed journal publication."
 
-    Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+  - title: "Assessing Downtown Recovery Rates and Determinants in North American Cities After the COVID-19 Pandemic"
+    authors:
+      - Amir Forouhar
+      - Karen Chapple
+      - Jeff Allen
+      - Byeonghwa Jeong
+      - Julia Greenberg
+    publisher: Urban Studies
+    releaseDate: 2024
+    url: https://doi.org/10.1177/00420980241270987
+    summary: "Peer-reviewed journal publication."
 
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
+  - title: "A new commercial boundary dataset for metropolitan areas in the USA and Canada, built from open data"
+    authors:
+      - Byeonghwa Jeong
+      - Jeff Allen
+      - Karen Chapple
+    publisher: Scientific Data
+    releaseDate: 2024
+    url: https://doi.org/10.1038/s41597-024-03275-3
+    summary: "Peer-reviewed journal publication."
 
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
+  - title: "Topic Modeling of the Transition of the Sense of Place in Urban Regeneration Area: A Case Study of Daegu Bangcheon Market"
+    authors:
+      - Byeonghwa Jeong
+      - Junwoo Kim
+    publisher: Journal of Daegu Gyeongbuk Studies
+    releaseDate: 2020
+    url: ""
+    summary: "Peer-reviewed journal publication."
 
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
+  - title: "Application and Evaluation of Self-Organising Map-based Spatial Clustering for Regional Policy Recommendations"
+    authors:
+      - Byeonghwa Jeong
+      - Junwoo Kim
+    publisher: Journal of the Korean Geographical Society
+    releaseDate: 2019
+    url: ""
+    summary: "Peer-reviewed journal publication."
 
-    Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
+  - title: "Comparative evaluation of South versus North Goseong County in terms of forest carbon offset potential"
+    authors:
+      - Byeonghwa Jeong
+      - Jung-Sup Um
+    publisher: Spatial Information Research
+    releaseDate: 2016
+    url: ""
+    summary: "Peer-reviewed journal publication."
 
-    References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+Reports:
+  - title: "PopGNN: Graph Neural Network-Based Flexible Future Population Forecasting Model"
+    authors:
+      - Byeonghwa Jeong
+      - Viswadeep Lebakula
+      - Marie Urban
+    publisher: Oak Ridge National Laboratory
+    releaseDate: 2026
+    url: ""
+    summary: "Technical report."
 
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+  - title: "Satellite Embedding-Based Population Imputation for Areas with Missing Building Footprint Data: A Computer Vision-Based Approach"
+    authors:
+      - Byeonghwa Jeong
+      - Daniel Adams
+      - Andrew Zimmer
+      - Marie Urban
+    publisher: Oak Ridge National Laboratory
+    releaseDate: 2026
+    url: ""
+    summary: "Technical report."
+
+  - title: "Assessing the Doom Loop"
+    authors:
+      - Karen Chapple
+      - Amir Forouhar
+      - Byeonghwa Jeong
+      - Stephanie Ortynsky
+    publisher: Lincoln Institute of Land Policy
+    releaseDate: 2025
+    url: ""
+    summary: "Research report."
+
+  - title: "Big Data-Driven Strategies for Enhancing the Science City Daejeon Brand"
+    authors:
+      - Hyejin Joo
+      - Sangheon Han
+      - Eunjeong Jeong
+      - Byeonghwa Jeong
+      - Juhwan Song
+      - Minyoung Noh
+    publisher: Daejeon Sejong Research Institute
+    releaseDate: 2025
+    url: ""
+    summary: "Research report."
+
+  - title: "Basic Research for Citizen Participatory Urban Branding: Focusing on Human and Cultural Resources"
+    authors:
+      - Hyejin Joo
+      - Minyoung Noh
+      - Byeonghwa Jeong
+    publisher: Daejeon Sejong Research Institute
+    releaseDate: 2024
+    url: ""
+    summary: "Research report."
+
+  - title: "Discover Regional Things using Big Data Analysis and Civic Collaboration"
+    authors:
+      - Hyejin Joo
+      - Sangheon Han
+      - Seolmin Yoon
+      - Jaeyeon Moon
+      - Byeonghwa Jeong
+    publisher: Daejeon Sejong Research Institute
+    releaseDate: 2023
+    url: ""
+    summary: "Research report."
+
+  - title: "Development and Utilization of Multiple Deprivation Index for Place-based Living Facilities Policy"
+    authors:
+      - Eunsun Lim
+      - Youngju Lee
+      - Bokyung Lee
+      - Yohan Jang
+      - Jaesun Son
+      - Kyungju Lee
+      - Pyeongjik Lee
+      - Byeonghwa Jeong
+      - Hyungkwan Choi
+    publisher: Korea Research Institute for Human Settlements
+    releaseDate: 2021
+    url: ""
+    summary: "Research report."
+
+  - title: "National Territorial Monitoring Report in 2018"
+    authors:
+      - Eunsun Lim
+      - Youngju Lee
+      - Bokyung Lee
+      - Pilsung Byun
+      - Moonsoo Shin
+      - Byeonghwa Jeong
+      - Changhwa Oh
+      - Gawon Shin
+      - Kyungju Lee
+      - Jongcheon Ahn
+      - Hosang Lee
+      - Jinho Park
+    publisher: National Geographic Information Institute
+    releaseDate: 2019
+    url: ""
+    summary: "Research report."
+
+Work in Preparation:
+  - title: "Dual-Structure Spatio-Temporal Graph Learning for Hurricane-Induced Power Outage Forecasting"
+    authors:
+      - Byeonghwa Jeong
+      - Sangkeun Lee
+      - Aaron Myers
+    publisher: "In preparation for submission to AAAI AI for Social Impact"
+    releaseDate: ""
+    url: ""
+    summary: "Manuscript in preparation."
+
+  - title: "PopGNN: Graph Neural Network-Based Flexible Future Population Forecasting Model"
+    authors:
+      - Byeonghwa Jeong
+      - Viswadeep Lebakula
+      - Marie Urban
+    publisher: "In preparation for submission to AAAI AI for Social Impact"
+    releaseDate: ""
+    url: ""
+    summary: "Manuscript in preparation."
+
+  - title: "Building-Level Wealth Index Prediction Using DHS Survey Data and Machine Learning: A Flexible Multi-Scale Framework"
+    authors:
+      - Byeonghwa Jeong
+      - Joe Tuccillo
+      - James Gaboardi
+    publisher: "In preparation for submission to Computers, Environment and Urban Systems"
+    releaseDate: ""
+    url: ""
+    summary: "Manuscript in preparation. Byeonghwa Jeong served as corresponding author."
+
+  - title: "Satellite Embedding-Based Population Imputation for Areas with Missing Building Footprint Data: A Computer Vision-Based Approach"
+    authors:
+      - Byeonghwa Jeong
+      - Andrew Zimmer
+      - Daniel Adams
+    publisher: "In preparation for submission to ACM Knowledge Discovery and Data Mining"
+    releaseDate: ""
+    url: ""
+    summary: "Manuscript in preparation. Byeonghwa Jeong served as corresponding author."
+
+  - title: "Global level Livability Mask for Gridded Population Datasets"
+    authors:
+      - Byeonghwa Jeong
+      - Viswadeep Lebakula
+      - Brandyn Reynolds
+    publisher: "In preparation for submission to Scientific Data"
+    releaseDate: ""
+    url: ""
+    summary: "Manuscript in preparation."
+
+  - title: "Framework for Rapid Updates to LandScan High-Resolution Gridded Population Datasets"
+    authors:
+      - Andrew Zimmer
+      - Daniel Adams
+      - Byeonghwa Jeong
+      - Marie Urban
+    publisher: "In preparation for submission to Scientific Reports"
+    releaseDate: ""
+    url: ""
+    summary: "Manuscript in preparation."
+
+Conference Presentations:
+  - title: "Building-Level Wealth Index Prediction Using DHS Data and Machine Learning"
+    authors:
+      - Byeonghwa Jeong
+      - Joe Tuccillo
+      - James Gaboardi
+    publisher: "AAG Annual Meeting"
+    releaseDate: 2026
+    url: ""
+    summary: "Conference presentation."
+
+  - title: "Delineating commercial boundaries using an AI-based computer vision technique with open data in South Korea"
+    authors:
+      - Young-Hoon Kim
+      - Byeonghwa Jeong
+    publisher: "AsiaCarto 2024"
+    releaseDate: 2024
+    url: ""
+    summary: "Conference presentation."
+
+  - title: "Typology of Downtown Recovery at the Granular Scale"
+    authors:
+      - Byeonghwa Jeong
+      - Karen Chapple
+      - Jeff Allen
+    publisher: "Geoinformatics 2024"
+    releaseDate: 2024
+    url: ""
+    summary: "Conference presentation."
+
+Grants:
+  - title: "A Study on the Evaluation and Characteristics of Coastal Area by Using Image Segmentation Model"
+    authors:
+      - Korea Maritime Institute
+    date: ""
+    awarder: Korea Maritime Institute
+    url: ""
+    summary: "Award amount: USD 2,885. Personal contribution: idea development, core data provision, writing, and review."
+
+  - title: "Assessing the Doom Loop: Scenarios in Four North American Downtowns"
+    authors:
+      - Lincoln Institute of Land Policy
+    date: ""
+    awarder: Lincoln Institute of Land Policy
+    url: ""
+    summary: "Award amount: USD 52,931. Personal contribution: data curation, data collection, preprocessing, explainable AI, and proposal writing."
+
+  - title: "Marshalling a Robust Downtown Recovery for Ottawa"
+    authors:
+      - Canadian Urban Institute
+    date: ""
+    awarder: Canadian Urban Institute
+    url: ""
+    summary: "Award amount: USD 109,514. Personal contribution: data curation, data collection, preprocessing, methodology selection, analysis, visualization, and proposal writing."
+
+Teaching and Supervision:
+  - company: University of Toronto
+    position: Graduate Student Supervisor
+    location: Toronto, Canada
+    start_date: 2024
+    end_date: 2024
+    summary: "Supervised graduate students and collaborators on spatial data science and urban analytics projects."
+    highlights:
+      - "Xiaoxin Zhou, M.S. in Informatics, University of Toronto."
+      - "Gaweon Shin, Ph.D. in Public Administration, Yonsei University."
+      - "Changwha Oh, Ph.D. in Geography, University of Tennessee Knoxville."
+
+  - company: University of Toronto
+    position: Undergraduate Student Supervisor
+    location: Toronto, Canada
+    start_date: 2024
+    end_date: 2024
+    summary: "Supervised undergraduate students on research tasks."
+    highlights:
+      - "Christoper Kim, B.A., UC Berkeley."
+      - "Brandon Choi, B.A., UC Berkeley."
+
+  - company: Korea Research Institute for Human Settlements
+    position: Guest Lecturer
+    location: South Korea
+    start_date: 2025-03
+    end_date: 2025-03
+    summary: "The application of computer vision for delineating regional boundary."
+    highlights:
+      - "Hosted by Dr Bokyeong Lee."
+
+  - company: Korea National University of Education
+    position: Guest Lecturer
+    location: South Korea
+    start_date: 2024-08
+    end_date: 2024-08
+    summary: "The application of AI for social phenomenon prediction."
+    highlights:
+      - "Hosted by Professor Younghoon Kim."
+
+  - company: Kyungpook National University
+    position: Guest Lecturer
+    location: Daegu, South Korea
+    start_date: 2023-06
+    end_date: 2023-06
+    summary: "Social phenomenon and spatial AI."
+    highlights:
+      - "Hosted by Professor Jae Hyun Lee."
+
+Service:
+  - company: International Conference on Geospatial Information Science
+    position: Organising Committee Member
+    location: South Korea
+    start_date: 2019
+    end_date: 2019
+    summary: "Spatially Enabled Society with AI and Digital Twin."
+    highlights: []
+
+  - company: Academic Journals
+    position: Journal Reviewer
+    location: ""
+    start_date: 2025
+    end_date: present
+    summary: "Reviewed manuscripts for international journals."
+    highlights:
+      - "International Journal of Geographical Information Science, Taylor & Francis, 2025."
+      - "Computers and Electrical Engineering, Elsevier, 2025."
+      - "Papers in Regional Science, Elsevier, 2026."
+      - "Spatial Information Research, Springer, 2026."
+      - "Transactions in GIS, Wiley, 2026."
+
+Awards:
+  - title: "Best Paper Award"
+    authors:
+      - Daegu Gyeongbuk Development Institute
+    date: 2020-03
+    awarder: Daegu Gyeongbuk Development Institute
+    url: ""
+    summary: "Awarded best paper for Topic Modeling of the Transition of the Sense of Place in Urban Regeneration Area: A Case Study of Daegu Bangcheon Market."
+
+  - title: "Outstanding Paper Award"
+    authors:
+      - Korea Spatial Information Society
+    date: 2015-05
+    awarder: Korea Spatial Information Society
+    url: ""
+    summary: "Awarded for presenting Comparative Evaluation of Pixel Value Signature Between UN-A/R CDM Project Area in Goseong, South Korea and Goseong, North Korea."
+
+  - title: "June-Myeong Scholarship"
+    authors:
+      - GEO C&I Corp.
+    date: 2013-03
+    awarder: GEO C&I Corp.
+    url: ""
+    summary: "Awarded USD 300 scholarship for skilled ArcGIS use."
+
+Skills:
+  - name: GIS Analysis
+    level: Skilled
+    icon: fa-solid fa-map
+    keywords: "ArcGIS, QGIS"
+
+  - name: Programming
+    level: Skilled
+    icon: fa-solid fa-code
+    keywords: "Python"
+
+  - name: Data Query and Management
+    level: Skilled
+    icon: fa-solid fa-database
+    keywords: "Pandas, GeoPandas, NumPy, PySpark"
+
+  - name: Machine Learning and Deep Learning
+    level: Skilled
+    icon: fa-solid fa-brain
+    keywords: "PyTorch, Torchvision, scikit-learn, Gensim"
+
+  - name: Statistics
+    level: Skilled
+    icon: fa-solid fa-chart-line
+    keywords: "Regression, Multivariate Multiple Regression, Likelihood Ratio Test, Correlation Tests, Feature Engineering"
+
+  - name: Web Crawling
+    level: Skilled
+    icon: fa-solid fa-globe
+    keywords: "Selenium, BeautifulSoup, Requests"
+
+  - name: Text Mining
+    level: Skilled
+    icon: fa-solid fa-align-left
+    keywords: "TF-IDF, Word2Vec, Latent Dirichlet Allocation"
+
+  - name: Large Language Models
+    level: Experienced
+    icon: fa-solid fa-robot
+    keywords: "Prompt Engineering, Fine-tuning"
+
+  - name: Network Analysis
+    level: Experienced
+    icon: fa-solid fa-diagram-project
+    keywords: "NetworkX, UCINET"
+
+  - name: Remote Sensing
+    level: Skilled
+    icon: fa-solid fa-satellite
+    keywords: "Google Earth Engine, Python-based raster analysis"
+
+  - name: Cloud-Based Computing
+    level: Skilled
+    icon: fa-solid fa-cloud
+    keywords: "Google Firebase, Google Colab"
+
+  - name: Relational Database Management
+    level: Experienced
+    icon: fa-solid fa-server
+    keywords: "MariaDB"
+
+  - name: Statistical Software
+    level: Experienced
+    icon: fa-solid fa-square-root-variable
+    keywords: "R"
+
+Languages:
+  - name: Korean
+    summary: Native speaker
+
+  - name: English
+    summary: Fluent
+
+Interests:
+  - name: Geospatial Artificial Intelligence
+    icon: fa-solid fa-earth-americas
+    keywords: "GeoAI, spatial data science, machine learning, deep learning, spatial statistics"
+
+  - name: Population Modeling
+    icon: fa-solid fa-users
+    keywords: "LandScan, gridded population, high-resolution population estimation, demographic forecasting"
+
+  - name: Urban Analytics
+    icon: fa-solid fa-city
+    keywords: "Retail gentrification, downtown recovery, commercial boundaries, urban regeneration"
+
+  - name: Remote Sensing and Disaster Impact Assessment
+    icon: fa-solid fa-satellite-dish
+    keywords: "Satellite imagery, building damage assessment, disaster response, humanitarian decision-making"
+```
