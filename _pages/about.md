@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD. in Geography (Geospatial Data Science)
+subtitle: Ph.D. in Geography (Geospatial Data Science)
 
 profile:
   align: right
