@@ -139,7 +139,7 @@ cv:
           - Bokyeong Lee
           - "*Byeonghwa Jeong*"
         journal: Population, Space and Place
-        date: 2025
+        date: 2026
         doi: 10.1002/psp.70161
 
       - title: "A Large Language Model-based Chatbot System Framework for Urban Planners"
@@ -156,7 +156,7 @@ cv:
           - "*Byeonghwa Jeong*"
           - Bokyeong Lee
         journal: International Journal of Geographical Information Science
-        date: 2025
+        date: 2026
         doi: 10.1080/13658816.2025.2514792
 
       - title: "A first open retail boundary dataset for South Korea using open data and computer vision technique"
@@ -218,115 +218,49 @@ cv:
         date: 2016
 
     Reports:
-      - name: "PopGNN: Graph Neural Network-Based Flexible Future Population Forecasting Model"
-        date: 2026
-        summary: "Byeonghwa Jeong, Viswadeep Lebakula, and Marie Urban. Oak Ridge National Laboratory."
-
-      - name: "Satellite Embedding-Based Population Imputation for Areas with Missing Building Footprint Data"
-        date: 2026
-        summary: "Byeonghwa Jeong, Daniel Adams, Andrew Zimmer, and Marie Urban. Oak Ridge National Laboratory."
-
-      - name: "Assessing the Doom Loop"
-        date: 2025
-        summary: "Karen Chapple, Amir Forouhar, Byeonghwa Jeong, and Stephanie Ortynsky. Lincoln Institute of Land Policy."
-
-      - name: "Big Data-Driven Strategies for Enhancing the Science City Daejeon Brand"
-        date: 2025
-        summary: "Hyejin Joo, Sangheon Han, Eunjeong Jeong, Byeonghwa Jeong, Juhwan Song, and Minyoung Noh. Daejeon Sejong Research Institute."
-
-      - name: "Basic Research for Citizen Participatory Urban Branding"
-        date: 2024
-        summary: "Hyejin Joo, Minyoung Noh, and Byeonghwa Jeong. Daejeon Sejong Research Institute."
-
-      - name: "Discover Regional Things using Big Data Analysis and Civic Collaboration"
-        date: 2023
-        summary: "Hyejin Joo, Sangheon Han, Seolmin Yoon, Jaeyeon Moon, and Byeonghwa Jeong. Daejeon Sejong Research Institute."
-
-      - name: "Development and Utilization of Multiple Deprivation Index for Place-based Living Facilities Policy"
-        date: 2021
-        summary: "Korea Research Institute for Human Settlements."
-
-      - name: "National Territorial Monitoring Report in 2018"
-        date: 2019
-        summary: "National Geographic Information Institute."
+      - bullet: "**PopGNN: Graph Neural Network-Based Flexible Future Population Forecasting Model** (2026). Byeonghwa Jeong, Viswadeep Lebakula, and Marie Urban. Oak Ridge National Laboratory."
+      - bullet: "**Satellite Embedding-Based Population Imputation for Areas with Missing Building Footprint Data** (2026). Byeonghwa Jeong, Daniel Adams, Andrew Zimmer, and Marie Urban. Oak Ridge National Laboratory."
+      - bullet: "**Assessing the Doom Loop** (2025). Karen Chapple, Amir Forouhar, Byeonghwa Jeong, and Stephanie Ortynsky. Lincoln Institute of Land Policy."
+      - bullet: "**Big Data-Driven Strategies for Enhancing the Science City Daejeon Brand** (2025). Hyejin Joo, Sangheon Han, Eunjeong Jeong, Byeonghwa Jeong, Juhwan Song, and Minyoung Noh. Daejeon Sejong Research Institute."
+      - bullet: "**Basic Research for Citizen Participatory Urban Branding** (2024). Hyejin Joo, Minyoung Noh, and Byeonghwa Jeong. Daejeon Sejong Research Institute."
+      - bullet: "**Discover Regional Things using Big Data Analysis and Civic Collaboration** (2023). Hyejin Joo, Sangheon Han, Seolmin Yoon, Jaeyeon Moon, and Byeonghwa Jeong. Daejeon Sejong Research Institute."
+      - bullet: "**Development and Utilization of Multiple Deprivation Index for Place-based Living Facilities Policy** (2021). Korea Research Institute for Human Settlements."
+      - bullet: "**National Territorial Monitoring Report in 2018** (2019). National Geographic Information Institute."
 
     Work in Preparation:
-      - name: "Dual-Structure Spatio-Temporal Graph Learning for Hurricane-Induced Power Outage Forecasting"
-        summary: "Byeonghwa Jeong, Sangkeun Lee, and Aaron Myers. In preparation for submission to AAAI AI for Social Impact."
-
-      - name: "PopGNN: Graph Neural Network-Based Flexible Future Population Forecasting Model"
-        summary: "Byeonghwa Jeong, Viswadeep Lebakula, and Marie Urban. In preparation for submission to AAAI AI for Social Impact."
-
-      - name: "Building-Level Wealth Index Prediction Using DHS Survey Data and Machine Learning"
-        summary: "Byeonghwa Jeong, Joe Tuccillo, and James Gaboardi. In preparation for submission to Computers, Environment and Urban Systems."
-
-      - name: "Satellite Embedding-Based Population Imputation for Areas with Missing Building Footprint Data"
-        summary: "Byeonghwa Jeong, Andrew Zimmer, and Daniel Adams. In preparation for submission to ACM Knowledge Discovery and Data Mining."
-
-      - name: "Global Level Livability Mask for Gridded Population Datasets"
-        summary: "Byeonghwa Jeong, Viswadeep Lebakula, and Brandyn Reynolds. In preparation for submission to Scientific Data."
-
-      - name: "Framework for Rapid Updates to LandScan High-Resolution Gridded Population Datasets"
-        summary: "Andrew Zimmer, Daniel Adams, Byeonghwa Jeong, and Marie Urban. In preparation for submission to Scientific Reports."
+      - bullet: "**Dual-Structure Spatio-Temporal Graph Learning for Hurricane-Induced Power Outage Forecasting**. Byeonghwa Jeong, Sangkeun Lee, and Aaron Myers. In preparation for submission to AAAI AI for Social Impact."
+      - bullet: "**PopGNN: Graph Neural Network-Based Flexible Future Population Forecasting Model**. Byeonghwa Jeong, Viswadeep Lebakula, and Marie Urban. In preparation for submission to AAAI AI for Social Impact."
+      - bullet: "**Building-Level Wealth Index Prediction Using DHS Survey Data and Machine Learning**. Byeonghwa Jeong, Joe Tuccillo, and James Gaboardi. In preparation for submission to Computers, Environment and Urban Systems."
+      - bullet: "**Satellite Embedding-Based Population Imputation for Areas with Missing Building Footprint Data**. Byeonghwa Jeong, Andrew Zimmer, and Daniel Adams. In preparation for submission to ACM Knowledge Discovery and Data Mining."
+      - bullet: "**Global Level Livability Mask for Gridded Population Datasets**. Byeonghwa Jeong, Viswadeep Lebakula, and Brandyn Reynolds. In preparation for submission to Scientific Data."
+      - bullet: "**Framework for Rapid Updates to LandScan High-Resolution Gridded Population Datasets**. Andrew Zimmer, Daniel Adams, Byeonghwa Jeong, and Marie Urban. In preparation for submission to Scientific Reports."
 
     Conference Presentations:
-      - name: "Building-Level Wealth Index Prediction Using DHS Data and Machine Learning"
-        date: 2026
-        summary: "Byeonghwa Jeong, Joe Tuccillo, and James Gaboardi. AAG Annual Meeting."
-
-      - name: "Delineating commercial boundaries using an AI-based computer vision technique with open data in South Korea"
-        date: 2024
-        summary: "Young-Hoon Kim and Byeonghwa Jeong. AsiaCarto 2024."
-
-      - name: "Typology of Downtown Recovery at the Granular Scale"
-        date: 2024
-        summary: "Byeonghwa Jeong, Karen Chapple, and Jeff Allen. Geoinformatics 2024."
+      - bullet: "**Building-Level Wealth Index Prediction Using DHS Data and Machine Learning** (2026). Byeonghwa Jeong, Joe Tuccillo, and James Gaboardi. AAG Annual Meeting."
+      - bullet: "**Delineating commercial boundaries using an AI-based computer vision technique with open data in South Korea** (2024). Young-Hoon Kim and Byeonghwa Jeong. AsiaCarto 2024."
+      - bullet: "**Typology of Downtown Recovery at the Granular Scale** (2024). Byeonghwa Jeong, Karen Chapple, and Jeff Allen. Geoinformatics 2024."
 
     Grants:
-      - name: "A Study on the Evaluation and Characteristics of Coastal Area by Using Image Segmentation Model"
-        summary: "Korea Maritime Institute. Award amount: USD 2,885. Personal contribution: idea development, core data provision, writing, and review."
-
-      - name: "Assessing the Doom Loop: Scenarios in Four North American Downtowns"
-        summary: "Lincoln Institute of Land Policy. Award amount: USD 52,931. Personal contribution: data curation, data collection, preprocessing, explainable AI, and proposal writing."
-
-      - name: "Marshalling a Robust Downtown Recovery for Ottawa"
-        summary: "Canadian Urban Institute. Award amount: USD 109,514. Personal contribution: data curation, data collection, preprocessing, methodology selection, analysis, visualization, and proposal writing."
+      - bullet: "**A Study on the Evaluation and Characteristics of Coastal Area by Using Image Segmentation Model**. Korea Maritime Institute. Award amount: USD 2,885. Personal contribution: idea development, core data provision, writing, and review."
+      - bullet: "**Assessing the Doom Loop: Scenarios in Four North American Downtowns**. Lincoln Institute of Land Policy. Award amount: USD 52,931. Personal contribution: data curation, data collection, preprocessing, explainable AI, and proposal writing."
+      - bullet: "**Marshalling a Robust Downtown Recovery for Ottawa**. Canadian Urban Institute. Award amount: USD 109,514. Personal contribution: data curation, data collection, preprocessing, methodology selection, analysis, visualization, and proposal writing."
 
     Teaching and Supervision:
-      - name: "Graduate student supervision"
-        date: 2024
-        highlights:
-          - "Xiaoxin Zhou, M.S. in Informatics, University of Toronto."
-          - "Gaweon Shin, Ph.D. in Public Administration, Yonsei University."
-          - "Changwha Oh, Ph.D. in Geography, University of Tennessee Knoxville."
-
-      - name: "Undergraduate student supervision"
-        date: 2024
-        highlights:
-          - "Christoper Kim, B.A., UC Berkeley."
-          - "Brandon Choi, B.A., UC Berkeley."
-
-      - name: "Guest lectures"
-        highlights:
-          - "The application of computer vision for delineating regional boundary, Korea Research Institute for Human Settlements, 2025."
-          - "The application of AI for social phenomenon prediction, Korea National University of Education, 2024."
-          - "Social phenomenon and spatial AI, Kyungpook National University, 2023."
+      - bullet: "**Graduate student supervision** (2024). Xiaoxin Zhou, M.S. in Informatics, University of Toronto; Gaweon Shin, Ph.D. in Public Administration, Yonsei University; Changwha Oh, Ph.D. in Geography, University of Tennessee Knoxville."
+      - bullet: "**Undergraduate student supervision** (2024). Christoper Kim, B.A., UC Berkeley; Brandon Choi, B.A., UC Berkeley."
+      - bullet: "**Guest lecture** (2025). The application of computer vision for delineating regional boundary, Korea Research Institute for Human Settlements."
+      - bullet: "**Guest lecture** (2024). The application of AI for social phenomenon prediction, Korea National University of Education."
+      - bullet: "**Guest lecture** (2023). Social phenomenon and spatial AI, Kyungpook National University."
 
     Service:
-      - name: "Conference and event management"
-        summary: "Member of the Organising Committee, International Conference on Geospatial Information Science, Spatially Enabled Society with AI and Digital Twin, 2019."
+      - bullet: "**Conference and event management**. Member of the Organising Committee, International Conference on Geospatial Information Science, Spatially Enabled Society with AI and Digital Twin, 2019."
+      - bullet: "**Journal reviewer**. International Journal of Geographical Information Science, Taylor & Francis, 2025."
+      - bullet: "**Journal reviewer**. Computers and Electrical Engineering, Elsevier, 2025."
+      - bullet: "**Journal reviewer**. Papers in Regional Science, Elsevier, 2026."
+      - bullet: "**Journal reviewer**. Spatial Information Research, Springer, 2026."
+      - bullet: "**Journal reviewer**. Transactions in GIS, Wiley, 2026."
 
-      - name: "Journal reviewer"
-        highlights:
-          - "International Journal of Geographical Information Science, Taylor & Francis, 2025."
-          - "Computers and Electrical Engineering, Elsevier, 2025."
-          - "Papers in Regional Science, Elsevier, 2026."
-          - "Spatial Information Research, Springer, 2026."
-          - "Transactions in GIS, Wiley, 2026."
 
-    Awards:
-      - name: "Best Paper Award"
-        date: 2020-03
         summary: "Awarded by Daegu Gyeongbuk Development Institute for research on sense of place in an urban regeneration area."
 
       - name: "Outstanding Paper Award"
