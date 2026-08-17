@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-07-20'
+  last_updated: '2026-08-17'
 papers:
   GcOlLg0AAAAJ:4DMP91E08xMC:
-    citations: 3
+    citations: 4
     title: 'Popnet: computer vision based deep learning model for forecasting gridded population'
     year: '2026'
   GcOlLg0AAAAJ:4TOpqqG69KYC:
@@ -22,9 +22,13 @@ papers:
     title: 'Satellite Embedding-Based Population Imputation for Areas with Missing Building Footprint Data: A Computer Vision-Based Approach'
     year: '2026'
   GcOlLg0AAAAJ:KlAtU1dfN6UC:
-    citations: 3
+    citations: 4
     title: An Integrated Deep Learning Model based on Retail, Residential and Footfall Changes data to Predict Retail Gentrification
     year: '2023'
+  GcOlLg0AAAAJ:L8Ckcad2t8MC:
+    citations: 0
+    title: A new commercial boundary dataset for metropolitan areas in the USA and Canada
+    year: '2024'
   GcOlLg0AAAAJ:LkGwnXOMwfcC:
     citations: 2
     title: Anticipation of Commercial Gentrification through Time and Space Seoul, South Korea
@@ -38,7 +42,7 @@ papers:
     title: A new commercial boundary dataset for metropolitan areas in the USA and Canada, built from open data
     year: '2024'
   GcOlLg0AAAAJ:UebtZRa9Y70C:
-    citations: 6
+    citations: 7
     title: "\uC9C0\uC5ED\uBCC4 \uC815\uCC45\uC81C\uC2DC\uB97C \uC704\uD55C \uC790\uAE30\uC870\uC9C1\uD654\uC9C0\uB3C4 \uAE30\uBC18\uC758 \uAD70\uC9D1\uBD84\uC11D\uACFC \uD3C9\uAC00"
     year: '2019'
   GcOlLg0AAAAJ:Wp0gIr-vW9MC:
@@ -50,7 +54,7 @@ papers:
     title: Does class matter? Understanding differential pandemic recovery via a building typology
     year: '2025'
   GcOlLg0AAAAJ:_kc_bZDykSQC:
-    citations: 24
+    citations: 27
     title: Assessing downtown recovery rates and determinants in North American cities after the COVID-19 pandemic
     year: '2025'
   GcOlLg0AAAAJ:aqlVkmm33-oC:
@@ -70,6 +74,6 @@ papers:
     title: An open retail boundary dataset for South Korea using open data and computer vision technique
     year: '2025'
   GcOlLg0AAAAJ:ufrVoPGSRksC:
-    citations: 4
+    citations: 5
     title: Comparative evaluation of South versus North Goseong County in terms of forest carbon offset potential
     year: '2016'
