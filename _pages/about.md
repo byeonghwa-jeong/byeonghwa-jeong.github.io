@@ -2,38 +2,36 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D. in Geography (Geospatial Data Science)
+subtitle: R&D Associate at Oak Ridge National Laboratory | GeoAI & Spatial Data Science
+description: Byeonghwa Jeong is an R&D Associate at Oak Ridge National Laboratory developing GeoAI methods for population and socioeconomic measurement, urban change, disaster impacts, and infrastructure risk.
 
 profile:
   align: right
   image: byeonghwa_profile.png
-  image_circular: false # crops the image to make it circular
+  image_circular: false
   more_info: >
     <p>R&D Associate</p>
     <p>Oak Ridge National Laboratory</p>
     <p>Oak Ridge, Tennessee, USA</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: true
+social: true
 
 announcements:
-  enabled: false # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: false
+  scrollable: true
+  limit: 5
 
 latest_posts:
   enabled: false
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
-description: Byeonghwa Jeong is an R&D Associate at Oak Ridge National Laboratory specializing in GeoAI, spatial data science, population modeling, remote sensing, and machine learning.
+  scrollable: true
+  limit: 3
 ---
 
-Byeonghwa Jeong is an R&D Associate at [Oak Ridge National Laboratory](https://www.ornl.gov/), working at the intersection of geographic information science, spatial data science, GeoAI, machine learning, remote sensing, and urban analytics. My research focuses on analysing and predicting geographical and social phenomena using large-scale spatiotemporal data, with the broader goal of supporting data-driven, human-centered decision-making for planning, infrastructure, humanitarian response, and sustainable development.
+I am **Byeonghwa Jeong**, an R&D Associate at [Oak Ridge National Laboratory](https://www.ornl.gov/) and a geographer and spatial data scientist. I develop computational and spatial analytical methods - including deep learning, machine learning, graph neural networks, computer vision, remote sensing, and spatial statistics - for population and socioeconomic measurement, urban change, disaster impacts, and infrastructure risk.
 
-I received my Ph.D. from University College London under the supervision of Professor Paul Longley and Professor James Cheshire. My doctoral research examined retail gentrification and high street change in England, developing spatial and machine learning approaches to identify areas at risk of gentrification. This work reflected a broader interest in using spatial context and computational methods to produce more actionable evidence for urban policy.
+At ORNL, I contribute to **LandScan Global** and **LandScan Mosaic** and develop GeoAI methods for large-scale population modelling. My current work includes multi-scale population forecasting with graph neural networks, population-surface reconstruction using **AlphaEarth satellite embeddings**, building-level wealth estimation, and hurricane-induced power-outage forecasting. I also work with large-scale GPU/HPC workflows to develop geographically transferable models for complex spatial datasets.
 
-At ORNL, I contribute to the LandScan Global, LandScan Mosaic, and related high-resolution population modeling projects. My current research develops AI-based geospatial frameworks for population estimation, demographic forecasting, socioeconomic mapping, and disaster impact assessment. Recent work includes graph neural network models for flexible population forecasting across both regular grids and irregular administrative boundaries; machine learning frameworks for building-level wealth estimation from DHS survey data; and computer vision approaches that use satellite embeddings to impute population in areas with incomplete or unreliable building footprint data.
+I received my Ph.D. in Geography (Geospatial Data Science) from **University College London**, supervised by Professor Paul Longley and Professor James Cheshire. My doctoral research developed spatial and deep-learning approaches to study retail gentrification and high-street change. I later worked as a Postdoctoral Research Fellow at the **University of Toronto School of Cities**, where I developed computational methods for downtown recovery, building-level analysis, footfall data, and explainable machine learning.
 
-Methodologically, my work combines deep learning, graph neural networks, computer vision, Bayesian modeling, spatial statistics, explainable AI, natural language processing, and remote sensing. I am particularly interested in models that are not only accurate, but also spatially interpretable and useful for real-world decision-making. For example, my recent work on land-cover-based population estimation uses perturbation-based attribution to quantify how different built-environment classes contribute to population predictions at the cell level. This allows population models to move beyond prediction alone and provide interpretable evidence about where and how specific land-cover features shape estimated population patterns.
-
-Beyond population modeling, I have also worked on text mining and NLP for urban studies, including research on changes in sense of place during urban regeneration. More broadly, my research agenda centers on developing scalable, interpretable, and policy-relevant geospatial AI methods for understanding society through data.
+My broader research goal is to develop scalable, interpretable, and geographically transferable geospatial AI methods that support real-world decision-making. I am particularly interested in linking population dynamics, socioeconomic conditions, the built environment, and infrastructure risk through spatial data science.

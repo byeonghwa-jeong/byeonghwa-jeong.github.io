@@ -18,25 +18,23 @@ cv:
     Education:
       - institution: University College London
         location: London, UK
-        area: Geography
+        area: Geography (Geospatial Data Science)
         degree: Ph.D.
         start_date: "2019-09"
         end_date: "2023-06"
         highlights:
-          - "Thesis: An Integrated Deep Learning Model using Retail, Residential and Footfall Changes data to Predict Retail Gentrification."
-          - "Supervisors: Prof. Paul Longley and Prof. James Cheshire."
-          - "Developed an Autoencoder-LSTM model to predict gentrified high streets across England using longitudinal residential, retail, and footfall variables."
-          - "Estimated the long-term impact of COVID-19 on retail gentrification using multivariate multiple regression and likelihood ratio tests."
+          - "Thesis: An Integrated Deep Learning Model Using Retail, Residential and Footfall Change Data to Predict Retail Gentrification."
+          - "Supervisors: Professor Paul Longley and Professor James Cheshire."
 
-      - institution: The University of Edinburgh
+      - institution: University of Edinburgh
         location: Edinburgh, UK
-        area: Geographical Information Sciences
+        area: Geographical Information Science
         degree: M.Sc.
         start_date: "2017-09"
         end_date: "2018-08"
         highlights:
+          - "Graduated with Distinction."
           - "Dissertation: Anticipation of Commercial Gentrification through Time and Space: Seoul, South Korea."
-          - "Predicted retail gentrification in Seoul using Self-Organising Maps and a Cellular Automata Markov model."
 
       - institution: Kyungpook National University
         location: Daegu, South Korea
@@ -48,90 +46,84 @@ cv:
     Experience:
       - company: Oak Ridge National Laboratory
         position: R&D Associate
-        location: Knoxville, USA
+        location: Oak Ridge, Tennessee, USA
         start_date: "2025-02"
         end_date: present
-        summary: "Research on high-resolution population modeling, GeoAI, disaster impact assessment, socioeconomic mapping, and global geospatial data products."
+        summary: "Develop geospatial AI methods for population and socioeconomic measurement, disaster impacts, and infrastructure risk."
         highlights:
-          - "Participating in LandScan Global and LandScan Mosaic projects that generate 1 km and 100 m global gridded population data."
-          - "Integrating satellite-based damage assessments with population models to estimate populations affected by disasters and conflicts."
-          - "Developing a global habitable probability mask using AI to improve gridded population data."
-          - "Building AI models to predict building-level wealth indices from satellite images, building features, and building footprint data."
-          - "Applying multiple instance learning to survey-based data for small-area estimates of household wealth distribution."
+          - "Develop geospatial AI methods for large-scale population modelling using graph neural networks, computer vision, satellite embeddings, and spatial machine learning."
+          - "Develop a deep-learning framework using AlphaEarth satellite embeddings to reconstruct gridded population surfaces while explicitly modelling populated and zero-population areas and evaluating geographic transferability across Taiwan, Ecuador, the Democratic Republic of the Congo, and Japan."
+          - "Train and evaluate PyTorch deep-learning and graph models on NVIDIA A100 and H200 GPU systems, focusing on scalable architectures, geographic transferability, and efficient modelling of large spatial datasets."
+          - "Contribute to LandScan Global and LandScan Mosaic, including global gridded-population production, rapid population-impact estimation for disasters and conflicts, and development of population-model inputs."
+          - "Lead or co-lead research on multi-scale population forecasting, satellite-based population reconstruction, building-level wealth estimation, and hurricane-induced power-outage forecasting."
+          - "Submitted a $228,000 competitive ORNL seed proposal as Principal Investigator on graph-based outage and population-impact prediction."
 
-      - company: University of Toronto
-        position: Post-Doctoral Research Fellow
-        location: Toronto, Canada
+      - company: University of Toronto, School of Cities
+        position: Postdoctoral Research Fellow
+        location: Toronto, Ontario, Canada
         start_date: "2023-07"
         end_date: "2025-01"
-        summary: "Research on downtown recovery, footfall analytics, urban spatial data, and machine learning-based analysis of post-pandemic urban change."
+        summary: "Developed computational methods for building-level and downtown-scale recovery analysis using privacy-preserving footfall, real-estate, socioeconomic, and open geospatial data."
         highlights:
-          - "Measured the recovery of downtown areas from the COVID-19 pandemic."
-          - "Estimated uncertainty in sample footfall data and imputed missing footfall data using deep learning-based models."
-          - "Analyzed building-level recovery rates and their relationships with building characteristics."
-          - "Developed downtown boundaries using unsupervised image segmentation and open-source spatial big data."
-          - "Explored socioeconomic determinants of downtown recovery through explainable AI."
+          - "Estimated sampling uncertainty, imputed missing footfall observations, developed data-driven downtown boundaries, and applied clustering and explainable machine learning to investigate heterogeneous recovery patterns."
+          - "Held day-to-day responsibility for training a graduate research intern on an LLM-based urban-planning chatbot project from research design and coding through manuscript development."
+          - "Provided project-based computational training and iterative feedback to undergraduate research interns."
 
       - company: Daejeon Sejong Research Institute
         position: External Collaborative Researcher
         location: Daejeon, South Korea
         start_date: "2024-10"
         end_date: "2024-12"
-        summary: "Research project on big data-driven strategies for enhancing the Science City Daejeon brand."
+        summary: "Big data-driven strategies for enhancing the Science City Daejeon brand."
         highlights:
-          - "Crawled web content about the Korea Science Festival and Daejeon Science Festival between 2019 and 2024."
-          - "Performed text mining using TF-IDF, Latent Dirichlet Allocation, and network analysis."
-          - "Explored changes in public perceptions of science festivals."
+          - "Collected and analysed web and social-media text using TF-IDF, topic modelling, and network analysis."
+          - "Contributed to data collection, preprocessing, interpretation, and policy-report preparation."
 
       - company: Daejeon Sejong Research Institute
         position: External Collaborative Researcher
         location: Daejeon, South Korea
         start_date: "2023-08"
         end_date: "2023-10"
-        summary: "Research project on discovering regional assets using big data analysis and civic collaboration."
+        summary: "Research on regional identity, civic participation, and place-based assets using big-data analysis."
         highlights:
-          - "Crawled and preprocessed text data from diverse internet sources."
-          - "Performed text mining using TF-IDF, Latent Dirichlet Allocation, and network analysis."
+          - "Collected and preprocessed web and social-media text and applied TF-IDF, topic modelling, and network analysis."
 
       - company: Daejeon Sejong Research Institute
         position: External Technical Consultant
         location: Daejeon, South Korea
         start_date: "2022-07"
         end_date: "2022-09"
-        summary: "Technical consulting for social media data collection and text mining."
+        summary: "Technical consulting for social-media data collection and text mining."
         highlights:
-          - "Advised on Python-based web crawling and preprocessing of crawled text data."
-          - "Consulted on Latent Dirichlet Allocation and network analysis."
+          - "Advised on Python web scraping, text preprocessing, topic modelling, and network analysis."
 
       - company: Korea Environment Institute
-        position: Part-time Modeler
+        position: Part-time Modeller
         location: Sejong, South Korea
         start_date: "2021-08"
         end_date: "2021-10"
-        summary: "Developed a deep learning-based spatial interpolation model for satellite-based CO2 observations."
+        summary: "Developed a deep-learning spatial interpolation model for atmospheric CO2 estimation."
         highlights:
-          - "Combined GEOS-Chem CO2 modeling outputs and OCO-2 satellite data."
-          - "Achieved stronger results than traditional interpolation methods."
+          - "Combined OCO-2 satellite observations and GEOS-Chem outputs to estimate unobserved atmospheric CO2 values."
 
       - company: Korea Research Institute for Human Settlements
         position: Assistant Research Fellow
         location: Sejong, South Korea
         start_date: "2018-09"
         end_date: "2019-09"
-        summary: "Spatial analysis and indicator development for national territorial monitoring."
+        summary: "Developed national territorial-monitoring indicators and spatial accessibility measures."
         highlights:
-          - "Built grid-based accessibility indicators to daily infrastructure such as schools and parks in South Korea."
-          - "Created old-building proportion data using national building trajectory data."
+          - "Developed national grid-based indicators of access to schools, parks, and other daily infrastructure."
+          - "Constructed longitudinal indicators of building age for territorial monitoring and policy analysis."
 
       - company: Kyungpook National University
         position: Student Research Assistant
         location: Daegu, South Korea
         start_date: "2015-11"
         end_date: "2016-06"
-        summary: "Supported research on greenhouse gas satellite data and forest carbon offset assessment."
+        summary: "Research assistance in remote sensing, urban carbon, and geospatial analysis."
         highlights:
-          - "Explored urban carbon distribution in Seoul using OCO-2 satellite data."
-          - "Worked on Python-based satellite data preprocessing and geostatistical analysis."
+          - "Analysed urban carbon patterns from OCO-2 satellite data and developed foundational skills in Python, geostatistics, and remote-sensing data processing."
 
     Publications:
       - title: "Development of Grid-Based Population Projection Method: A Modified Cohort Component Approach Applied to South Korea"
@@ -139,27 +131,27 @@ cv:
           - Bokyeong Lee
           - "*Byeonghwa Jeong*"
         journal: Population, Space and Place
-        date: "2025"
+        date: "2026"
         doi: 10.1002/psp.70161
 
-      - title: "A Large Language Model-based Chatbot System Framework for Urban Planners"
-        authors:
-          - Xiaoxin Zhou
-          - "*Byeonghwa Jeong*"
-          - Karen Chapple
-        journal: Expert Systems With Applications
-        date: "2025"
-        doi: 10.1016/j.eswa.2025.130307
-
-      - title: "Popnet: computer vision based bespoken deep learning model for forecasting gridded population"
+      - title: "Popnet: Computer Vision Based Deep Learning Model for Forecasting Gridded Population"
         authors:
           - "*Byeonghwa Jeong*"
           - Bokyeong Lee
         journal: International Journal of Geographical Information Science
-        date: "2025"
+        date: "2026"
         doi: 10.1080/13658816.2025.2514792
 
-      - title: "A first open retail boundary dataset for South Korea using open data and computer vision technique"
+      - title: "A Large Language Model-Based Chatbot System Framework for Urban Planners"
+        authors:
+          - Xiaoxin Zhou
+          - "*Byeonghwa Jeong*"
+          - Karen Chapple
+        journal: Expert Systems with Applications
+        date: "2025"
+        doi: 10.1016/j.eswa.2025.130307
+
+      - title: "A First Open Retail Boundary Dataset for South Korea Using Open Data and Computer Vision"
         authors:
           - "*Byeonghwa Jeong*"
           - Juhwan Song
@@ -187,7 +179,7 @@ cv:
         date: "2024"
         doi: 10.1177/00420980241270987
 
-      - title: "A new commercial boundary dataset for metropolitan areas in the USA and Canada, built from open data"
+      - title: "A New Commercial Boundary Dataset for Metropolitan Areas in the USA and Canada, Built from Open Data"
         authors:
           - "*Byeonghwa Jeong*"
           - Jeff Allen
@@ -196,99 +188,103 @@ cv:
         date: "2024"
         doi: 10.1038/s41597-024-03275-3
 
-      - title: "Topic Modeling of the Transition of the Sense of Place in Urban Regeneration Area: A Case Study of Daegu Bangcheon Market"
+      - title: "Topic Modeling of the Transition of the Sense of Place in an Urban Regeneration Area: A Case Study of Daegu Bangcheon Market"
         authors:
           - "*Byeonghwa Jeong*"
           - Junwoo Kim
         journal: Journal of Daegu Gyeongbuk Studies
         date: "2020"
 
-      - title: "Application and Evaluation of Self-Organising Map-based Spatial Clustering for Regional Policy Recommendations"
+      - title: "Application and Evaluation of Self-Organising Map-Based Spatial Clustering for Regional Policy Recommendations"
         authors:
           - "*Byeonghwa Jeong*"
           - Junwoo Kim
         journal: Journal of the Korean Geographical Society
         date: "2019"
 
-      - title: "Comparative evaluation of South versus North Goseong County in terms of forest carbon offset potential"
+      - title: "Comparative Evaluation of South versus North Goseong County in Terms of Forest Carbon Offset Potential"
         authors:
           - "*Byeonghwa Jeong*"
           - Jung-Sup Um
         journal: Spatial Information Research
         date: "2016"
 
-    Reports:
-      - bullet: "PopGNN: Graph Neural Network-Based Flexible Future Population Forecasting Model (2026). Byeonghwa Jeong, Viswadeep Lebakula, and Marie Urban. Oak Ridge National Laboratory."
-      - bullet: "Satellite Embedding-Based Population Imputation for Areas with Missing Building Footprint Data (2026). Byeonghwa Jeong, Daniel Adams, Andrew Zimmer, and Marie Urban. Oak Ridge National Laboratory."
-      - bullet: "Assessing the Doom Loop (2025). Karen Chapple, Amir Forouhar, Byeonghwa Jeong, and Stephanie Ortynsky. Lincoln Institute of Land Policy."
-      - bullet: "Big Data-Driven Strategies for Enhancing the Science City Daejeon Brand (2025). Hyejin Joo, Sangheon Han, Eunjeong Jeong, Byeonghwa Jeong, Juhwan Song, and Minyoung Noh. Daejeon Sejong Research Institute."
-      - bullet: "Basic Research for Citizen Participatory Urban Branding (2024). Hyejin Joo, Minyoung Noh, and Byeonghwa Jeong. Daejeon Sejong Research Institute."
-      - bullet: "Discover Regional Things using Big Data Analysis and Civic Collaboration (2023). Hyejin Joo, Sangheon Han, Seolmin Yoon, Jaeyeon Moon, and Byeonghwa Jeong. Daejeon Sejong Research Institute."
-      - bullet: "Development and Utilization of Multiple Deprivation Index for Place-based Living Facilities Policy (2021). Korea Research Institute for Human Settlements."
-      - bullet: "National Territorial Monitoring Report in 2018 (2019). National Geographic Information Institute."
+    Manuscripts Under Review:
+      - bullet: "Jeong, B., Lebakula, V., and Urban, M. (2026). From grids to communities: A graph neural network framework for multi-scale population forecasting. AAAI AI for Social Impact (under review)."
+      - bullet: "Jeong, B., Lee, S., and Myers, A. (2026). Dual-structure spatio-temporal graph learning for hurricane-induced power outage forecasting. AAAI AI for Social Impact (under review)."
+      - bullet: "Jeong, B. and Kim, J. (2026). Predicting retail gentrification through composite retail vitality index and spatial competition metrics. International Journal of Urban Sciences (under review)."
+      - bullet: "Jeong, B., Tuccillo, J., and Gaboardi, J. (2026). Building-level wealth index prediction using DHS survey data and machine learning: A flexible multi-scale framework. Computers, Environment and Urban Systems (under review)."
 
-    Work in Preparation:
-      - bullet: "Dual-Structure Spatio-Temporal Graph Learning for Hurricane-Induced Power Outage Forecasting. Byeonghwa Jeong, Sangkeun Lee, and Aaron Myers. In preparation for submission to AAAI AI for Social Impact."
-      - bullet: "PopGNN: Graph Neural Network-Based Flexible Future Population Forecasting Model. Byeonghwa Jeong, Viswadeep Lebakula, and Marie Urban. In preparation for submission to AAAI AI for Social Impact."
-      - bullet: "Building-Level Wealth Index Prediction Using DHS Survey Data and Machine Learning. Byeonghwa Jeong, Joe Tuccillo, and James Gaboardi. In preparation for submission to Computers, Environment and Urban Systems."
-      - bullet: "Satellite Embedding-Based Population Imputation for Areas with Missing Building Footprint Data. Byeonghwa Jeong, Andrew Zimmer, and Daniel Adams. In preparation for submission to ACM Knowledge Discovery and Data Mining."
-      - bullet: "Global Level Livability Mask for Gridded Population Datasets. Byeonghwa Jeong, Viswadeep Lebakula, and Brandyn Reynolds. In preparation for submission to Scientific Data."
-      - bullet: "Framework for Rapid Updates to LandScan High-Resolution Gridded Population Datasets. Andrew Zimmer, Daniel Adams, Byeonghwa Jeong, and Marie Urban. In preparation for submission to Scientific Reports."
+    Current Research Projects:
+      - bullet: "Interpretable population estimation from aerial imagery - Developing a two-stage semantic-segmentation and regression framework with ensemble self-training, pseudo-label filtering, temporal transfer, and landscape-class contribution maps; manuscript submission planned in 2026."
+      - bullet: "Population surface reconstruction using AlphaEarth embeddings - Developing a deep-learning framework that uses AlphaEarth satellite embeddings to reconstruct gridded population distributions while explicitly learning both populated and zero-population areas, with geographic-transfer evaluation across Taiwan, Ecuador, the Democratic Republic of the Congo, and Japan."
+      - bullet: "Scalable latent global routing for large-scale spatio-temporal graph learning - Developing ST-LAG, a latent-mediated graph architecture that combines sparse local graph propagation with node-to-latent global routing to model non-local dependencies without dense N x N node interactions."
+      - bullet: "Large-scale graph learning for population dynamics - Applying ST-LAG to continental-scale gridded population forecasting across the United States over more than 150,000 spatial units."
+      - bullet: "Scalable regional power-outage forecasting - Applying ST-LAG to hurricane-induced power-outage forecasting across the southeastern United States and developing an API for integration into ORNL's EDGAR platform."
+
+    Technical Reports:
+      - bullet: "Jeong, B., Lebakula, V., and Urban, M. (2026). PopGNN: Graph neural network-based flexible future population forecasting model. Oak Ridge National Laboratory."
+      - bullet: "Jeong, B., Adams, D., Zimmer, A., and Urban, M. (2026). Satellite embedding-based population imputation for areas with missing building-footprint data: A computer vision-based approach. Oak Ridge National Laboratory."
+
+    Policy Reports:
+      - bullet: "Chapple, K., Forouhar, A., Jeong, B., and Ortynsky, S. (2025). Assessing the doom loop. Lincoln Institute of Land Policy."
+      - bullet: "Joo, H., Han, S., Jeong, E., Jeong, B., Song, J., and Noh, M. (2025). Big data-driven strategies for enhancing the 'Science City Daejeon' brand. Daejeon Sejong Research Institute."
+      - bullet: "Joo, H., Noh, M., and Jeong, B. (2024). Basic research for citizen-participatory urban branding. Daejeon Sejong Research Institute."
+      - bullet: "Joo, H., Han, S., Yoon, S., Moon, J., and Jeong, B. (2023). Discover 'regional things' using big-data analysis and civic collaboration. Daejeon Sejong Research Institute."
+      - bullet: "Lim, E., et al., including Jeong, B. (2021). Development and utilisation of a multiple deprivation index for place-based living-facilities policy. Korea Research Institute for Human Settlements."
+      - bullet: "Lim, E., et al., including Jeong, B. (2019). National Territorial Monitoring Report 2018. National Geographic Information Institute."
+
+    Datasets:
+      - bullet: "Lebakula, V., Gonzales, J., Stipek, C., Tsybina, E., Zimmer, A., Nukavarapu, N., Jeong, B., Reynolds, B., Kaufman, J., Fan, J., Martin, A., Buck, W., Basford, S., Faxon, A., Meade, S., and Urban, M. (2025). LandScan Global 2024. Oak Ridge National Laboratory. Dataset. https://doi.org/10.48690/1532445"
+
+    Research Funding and Proposals:
+      - bullet: "Principal Investigator. A Graph Neural Network Approach for Forecasting Disaster-Driven Power Outages and Population Impacts. ORNL competitive internal Seed programme. $228,000 requested; submitted 2026; decision pending."
+      - bullet: "Project contributor. Marshalling a Robust Downtown Recovery for Ottawa. Canadian Urban Institute. $109,514 equivalent. Contributions: data curation and preprocessing, methodological selection, analysis, visualisation, and proposal writing."
+      - bullet: "Project contributor. Assessing the Doom Loop: Scenarios in Four North American Downtowns. Lincoln Institute of Land Policy. $52,931 equivalent. Contributions: data collection and preprocessing, explainable machine learning, analysis, and proposal writing."
+      - bullet: "Project contributor. Evaluation and Characteristics of Coastal Areas Using Image Segmentation. Korea Maritime Institute. $2,885 equivalent. Contributions: idea development, provision of core data, writing, and review."
+
+    Teaching, Research Training, and Student Development:
+      - bullet: "Guest lecture (Mar 2025): Computer-vision methods for delineating regional boundaries. Center for Territorial Monitoring, Korea Research Institute for Human Settlements."
+      - bullet: "Guest lecture (Aug 2024): Applications of AI for predicting social phenomena. Department of Geography Education, Korea National University of Education."
+      - bullet: "Guest lecture (Jun 2023): Social phenomena and spatial AI. Department of Geography, Kyungpook National University."
+      - bullet: "Primary day-to-day research mentor for Xiaoxin Zhou, graduate research intern, University of Toronto, providing sustained training from research-question development and coding through academic writing and manuscript revision; the project resulted in a peer-reviewed article in Expert Systems with Applications for which I served as corresponding author."
+      - bullet: "Provided project-based computational training to undergraduate research interns Christopher Kim and Brandon Choi, including analysis using project code and data, review of analytical outputs, and iterative feedback on coding and research communication."
+      - bullet: "Initiated and led a collaborative research project with doctoral researchers Gaweon Shin and Changwha Oh, coordinating research design, computational methods, analytical workflows, and research communication."
+      - bullet: "Mentor to a doctoral student at the University of North Carolina at Charlotte through the 2026-2027 KAGES Mentoring Program, focusing on workload management and job-application preparation."
 
     Conference Presentations:
-      - bullet: "Building-Level Wealth Index Prediction Using DHS Data and Machine Learning (2026). Byeonghwa Jeong, Joe Tuccillo, and James Gaboardi. AAG Annual Meeting."
-      - bullet: "Delineating commercial boundaries using an AI-based computer vision technique with open data in South Korea (2024). Young-Hoon Kim and Byeonghwa Jeong. AsiaCarto 2024."
-      - bullet: "Typology of Downtown Recovery at the Granular Scale (2024). Byeonghwa Jeong, Karen Chapple, and Jeff Allen. Geoinformatics 2024."
+      - bullet: "2026 - Building-level wealth index prediction using DHS data and machine learning. American Association of Geographers Annual Meeting."
+      - bullet: "2024 - Delineating commercial boundaries using an AI-based computer-vision technique with open data in South Korea. AsiaCarto 2024."
+      - bullet: "2024 - Typology of downtown recovery at the granular scale. Geoinformatics 2024."
 
-    Grants:
-      - bullet: "A Study on the Evaluation and Characteristics of Coastal Area by Using Image Segmentation Model. Korea Maritime Institute. Award amount: USD 2,885. Personal contribution: idea development, core data provision, writing, and review."
-      - bullet: "Assessing the Doom Loop: Scenarios in Four North American Downtowns. Lincoln Institute of Land Policy. Award amount: USD 52,931. Personal contribution: data curation, data collection, preprocessing, explainable AI, and proposal writing."
-      - bullet: "Marshalling a Robust Downtown Recovery for Ottawa. Canadian Urban Institute. Award amount: USD 109,514. Personal contribution: data curation, data collection, preprocessing, methodology selection, analysis, visualization, and proposal writing."
-
-    Teaching and Supervision:
-      - bullet: "Graduate student supervision (2024). Xiaoxin Zhou, M.S. in Informatics, University of Toronto; Gaweon Shin, Ph.D. in Public Administration, Yonsei University; Changwha Oh, Ph.D. in Geography, University of Tennessee Knoxville."
-      - bullet: "Undergraduate student supervision (2024). Christoper Kim, B.A., UC Berkeley; Brandon Choi, B.A., UC Berkeley."
-      - bullet: "Guest lecture (2025). The application of computer vision for delineating regional boundary, Korea Research Institute for Human Settlements."
-      - bullet: "Guest lecture (2024). The application of AI for social phenomenon prediction, Korea National University of Education."
-      - bullet: "Guest lecture (2023). Social phenomenon and spatial AI, Kyungpook National University."
-
-    Service:
-      - bullet: "Conference and event management. Member of the Organising Committee, International Conference on Geospatial Information Science, Spatially Enabled Society with AI and Digital Twin, 2019."
-      - bullet: "Journal reviewer. International Journal of Geographical Information Science, Taylor & Francis, 2025."
-      - bullet: "Journal reviewer. Computers and Electrical Engineering, Elsevier, 2025."
-      - bullet: "Journal reviewer. Papers in Regional Science, Elsevier, 2026."
-      - bullet: "Journal reviewer. Spatial Information Research, Springer, 2026."
-      - bullet: "Journal reviewer. Transactions in GIS, Wiley, 2026."
+    Professional Service:
+      - bullet: "Program Committee Member, 6th International Workshop on Big Data and AI-Assisted Tools, Methods, and Use Cases for Innovative Scientific Discovery, in conjunction with the 2026 IEEE International Conference on Big Data."
+      - bullet: "Member of the Organising Committee, International Conference on Geospatial Information Science: Spatially Enabled Society with AI and Digital Twin (2019)."
+      - bullet: "Journal reviewer: International Journal of Geographical Information Science (2025)."
+      - bullet: "Journal reviewer: Computers and Electrical Engineering (2026)."
+      - bullet: "Journal reviewer: Papers in Regional Science (2026)."
+      - bullet: "Journal reviewer: Spatial Information Research (2026)."
+      - bullet: "Journal reviewer: Transactions in GIS (2026)."
+      - bullet: "Journal reviewer: Applied Spatial Analysis and Policy (2026)."
+      - bullet: "Founded and currently run Geo-opportunity (@geo_opportunity), an Instagram account that curates and shares PhD and postdoctoral opportunities in geography and GIS for students and early-career researchers."
 
     Honours and Prizes:
-      - bullet: "Best Paper Award (2020). Awarded by Daegu Gyeongbuk Development Institute for research on sense of place in an urban regeneration area."
-      - bullet: "Outstanding Paper Award (2015). Awarded by the Korea Spatial Information Society."
-      - bullet: "June-Myeong Scholarship (2013). Awarded by GEO C&I Corp. for skilled ArcGIS use."
+      - bullet: "2020 - Best Paper Award, Daegu Gyeongbuk Development Institute. Topic Modeling of the Transition of the Sense of Place in an Urban Regeneration Area."
+      - bullet: "2015 - Outstanding Paper Award, Korea Spatial Information Society. Comparative Evaluation of Pixel-Value Signatures between UN A/R CDM Project Areas in South and North Goseong."
+      - bullet: "2013 - June-Myeong Scholarship for ArcGIS proficiency, GEO C&I Corporation. $300."
 
     Technical Skills:
-      - label: GIS analysis
-        details: ArcGIS, QGIS
-      - label: Programming
-        details: Python
-      - label: Data query and management
-        details: Pandas, GeoPandas, NumPy, PySpark
-      - label: Machine learning and deep learning
-        details: PyTorch, Torchvision, scikit-learn, Gensim
-      - label: Statistics
-        details: Regression, multivariate multiple regression, likelihood ratio tests, correlation tests, feature engineering
-      - label: Web crawling and text mining
-        details: Selenium, BeautifulSoup, Requests, TF-IDF, Word2Vec, Latent Dirichlet Allocation
-      - label: Large language models
-        details: Prompt engineering, fine-tuning
-      - label: Network analysis
-        details: NetworkX, UCINET
-      - label: Remote sensing
-        details: Google Earth Engine, Python-based raster analysis
-      - label: Cloud and databases
-        details: Google Firebase, Google Colab, MariaDB
+      - label: Programming and data engineering
+        details: Python (pandas, GeoPandas, NumPy, PySpark), SQL/MariaDB, R, web scraping, reproducible geospatial workflows
+      - label: Machine learning and AI
+        details: PyTorch, scikit-learn, XGBoost, computer vision, graph neural networks, spatio-temporal modelling, NLP, large language models, retrieval-augmented generation, prompt engineering, model explainability
+      - label: GIS and remote sensing
+        details: ArcGIS, QGIS, Google Earth Engine, raster and vector analysis, OpenStreetMap, geospatial databases, spatial statistics, network analysis
+      - label: Computing
+        details: HPC/GPU workflows
 
     Languages:
       - label: Korean
-        details: Native speaker
+        details: Native
       - label: English
-        details: Fluent
+        details: Professional proficiency
