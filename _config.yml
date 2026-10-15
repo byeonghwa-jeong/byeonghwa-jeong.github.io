@@ -8,13 +8,15 @@ middle_name: ""
 last_name: Jeong
 contact_note: >
   For any inquiries, please feel free to contact me via email.
-description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  R&D Associate at the Oak Ridge National Laboratory.
+description: >
+  Byeonghwa Jeong is an R&D Associate at Oak Ridge National Laboratory (ORNL),
+  specializing in GeoAI, geographic information science, spatial data science,
+  population modeling, remote sensing, machine learning, and urban analytics.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: Byeonghwa Jeong, Byeonghwa ORNL, ORNL, geospatial data science, gis, geography, data science # add your own keywords or leave empty
+keywords: Byeonghwa Jeong, Oak Ridge National Laboratory, ORNL, GeoAI, geographic information science, spatial data science, population modeling, GIS, remote sensing, machine learning, urban analytics
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🌎 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
@@ -98,9 +100,9 @@ max_width: 930px
 # -----------------------------------------------------------------------------
 # Display links to the page with a preview object on social media.
 # see https://schema.org/docs/faq.html for more information
-serve_og_meta: false # Include Open Graph meta tags in the HTML head
-serve_schema_org: false # Include Schema.org in the HTML head
-og_image: # The site-wide (default for all links) Open Graph preview image
+serve_og_meta: true
+serve_schema_org: true
+og_image: /assets/img/byeonghwa_profile.png
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
