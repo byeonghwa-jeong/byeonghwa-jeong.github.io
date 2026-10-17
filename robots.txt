@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://byeonghwa-jeong.github.io/sitemap.xml
+Sitemap: https://byeonghwajeong.com/sitemap.xml
